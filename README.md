@@ -21,8 +21,5 @@
 ## Xlinkworld机场跑路
 目前Xlinkworld机场没有跑路，可以放心使用。
 
-## Xlinkworld机场评测
-更多有关Xlinkworld机场评测可访问：https://jichangzhu.com/node/xlinkworld/
-
 ## 更多推荐
  - [免费分享好用的机场推荐与节点分享](https://github.com/jichanghub/jichangtuijian)
